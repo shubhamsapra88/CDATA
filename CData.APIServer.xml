@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CDataAPIServer>
+<RunAsService>false</RunAsService>
+<MaxConnections>25</MaxConnections>
+<UsePlain>true</UsePlain>
+<PlainPort>8153</PlainPort>
+<UseSSL>false</UseSSL>
+<SSLPort>9153</SSLPort>
+<EnableSSHGatway>false</EnableSSHGatway>
+<SSHHost></SSHHost>
+<SSHPort>22</SSHPort>
+<SSHAuthMode>Password</SSHAuthMode>
+<SSHUser></SSHUser>
+<SSHPassword></SSHPassword>
+<SSHServerFingerprint></SSHServerFingerprint>
+<SSHRemotePort>8153</SSHRemotePort>
+<LogMode>Info</LogMode>
+<AllowLogFile>true</AllowLogFile>
+<LogFile>CData.APIServer.log</LogFile>
+<RotateLog>true</RotateLog>
+<RotateLogDays>30</RotateLogDays>
+<DeleteLog>true</DeleteLog>
+<DeleteLogDays>90</DeleteLogDays>
+</CDataAPIServer>

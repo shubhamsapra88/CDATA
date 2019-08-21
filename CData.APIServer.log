@@ -1,0 +1,393 @@
+8/14/2019 1:53:49 PM: #(Re)Starting server.
+8/14/2019 1:54:30 PM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	302 Found
+8/14/2019 1:54:31 PM: 127.0.0.1	127.0.0.1	8153	GET	/login.rst	200 OK
+8/14/2019 1:54:31 PM: #(Re)Start successful.
+8/14/2019 1:54:31 PM: HTTP listener started.
+8/14/2019 1:54:31 PM: Web server started.
+8/14/2019 1:54:34 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 1:54:34 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 1:54:34 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/common/js/main.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/common/js/static.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/bootstrap/css/bootstrap.min.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/common/js/jquery.cookie.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/common/js/jquery-3.3.1.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/datatables/css/dataTables.bootstrap.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/fontawesome/css/font-awesome.min.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/app/js/app.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/common/css/main.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/app/css/app.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/timepicker/css/bootstrap-timepicker.min.css	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/timepicker/js/bootstrap-timepicker.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/bootstrap/js/bootstrap.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/app/images/APIServerLogo.png	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/bootstrap/js/respond.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/datatables/js/jquery.dataTables.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/datatables/js/dataTables.bootstrap.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/validation/js/jquery.validate.min.js	200 OK
+8/14/2019 1:54:35 PM: ::1	::1	8153	GET	/ui/fileupload/js/ajaxfileupload.js	200 OK
+8/14/2019 1:54:36 PM: ::1	::1	8153	GET	/ui/fontawesome/fonts/fontawesome-webfont.woff2	200 OK
+8/14/2019 1:54:36 PM: ::1	::1	8153	GET	/favicon.ico	200 OK
+8/14/2019 1:54:50 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 1:54:50 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 1:54:50 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 1:54:52 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 1:54:52 PM: ::1	::1	8153	GET	/ui/flotchart/js/jquery.flot.min.js	200 OK
+8/14/2019 1:54:52 PM: ::1	::1	8153	GET	/ui/flotchart/js/jquery.flot.resize.min.js	200 OK
+8/14/2019 1:54:52 PM: ::1	::1	8153	GET	/ui/sparkline/jquery.sparkline.min.js	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	GET	/ui/datatables/images/sort_both.png	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	POST	/src/setPageRecordsCount.rst	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	GET	/ui/datatables/images/sort_asc.png	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 1:54:53 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 1:54:54 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 1:54:54 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 1:54:54 PM: ::1	::1	8153	GET	/ui/datatables/images/sort_desc.png	200 OK
+8/14/2019 1:55:29 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 1:55:30 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 1:55:30 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 1:55:30 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 1:55:31 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 1:55:31 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/ui/codemirror/css/codemirror-5.36.0.css	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/ui/codemirror/js/codemirror-5.36.0.js	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/ui/codemirror/js/xml-5.36.0.js	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/ui/common/js/templateEditorModal.js	200 OK
+8/14/2019 1:56:37 PM: ::1	::1	8153	GET	/ui/codemirror/js/autorefresh-5.36.0.js	200 OK
+8/14/2019 1:56:38 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 1:56:38 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 1:56:38 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 1:56:38 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 1:56:45 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 1:56:45 PM: ::1	::1	8153	GET	/ui/common/images/MySQL.svg	200 OK
+8/14/2019 1:56:45 PM: ::1	::1	8153	GET	/ui/common/images/SQLite.svg	200 OK
+8/14/2019 1:56:45 PM: ::1	::1	8153	GET	/ui/common/images/SQL.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/ui/common/images/Oracle.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/ui/common/images/PostgreSQL.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/ui/common/images/DB2.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/ui/common/images/Access.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/ui/common/images/ODBC.svg	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 1:56:46 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 2:04:30 PM: ::1	::1	8153	GET	/about.rst	200 OK
+8/14/2019 2:12:31 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 2:12:32 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 2:12:32 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 2:12:33 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 2:12:33 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 2:12:36 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 2:12:36 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 2:12:37 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 2:12:37 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 6:14:49 PM: ::1	::1	8153	GET	/help/odata/default.rst	302 Found
+8/14/2019 6:14:50 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 6:15:00 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 6:15:00 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 6:15:01 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 6:15:02 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 6:15:02 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 6:15:02 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 6:15:02 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 6:15:02 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 6:15:06 PM: ::1	::1	8153	GET	/help/odata/default.rst	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/tree.css	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/styles/shCore.css	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/ui/common/css/help.css	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shCore.js	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/styles/shThemeDefault.css	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/XRegExp.js	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/help.js	200 OK
+8/14/2019 6:15:07 PM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shAutoloader.js	200 OK
+8/14/2019 6:15:08 PM: ::1	::1	8153	GET	/help/odata/_toc.htm	200 OK
+8/14/2019 6:15:08 PM: ::1	::1	8153	GET	/ui/common/images/help.png	200 OK
+8/14/2019 6:20:25 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 6:20:26 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 6:20:26 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 6:20:26 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 6:20:26 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 6:20:26 PM: ::1	::1	8153	POST	/src/parseConnectionString.rsb	200 OK
+8/14/2019 6:20:27 PM: ::1	::1	8153	POST	/src/getDriverInfo.rsb	200 OK
+8/14/2019 6:20:38 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 6:20:38 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 6:20:38 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 6:20:38 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 6:20:39 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 6:20:39 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 6:20:39 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 6:20:39 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 6:20:39 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 7:10:59 PM: ::1	::1	8153	GET	/login.rst	302 Found
+8/14/2019 7:10:59 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 7:11:25 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 7:11:25 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 7:11:25 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 7:11:28 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 7:11:29 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 7:11:29 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 7:11:29 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 7:11:30 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 7:11:30 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 7:11:30 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 7:11:30 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 7:11:30 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 7:11:59 PM: ::1	::1	8153	GET	/about.rst	200 OK
+8/14/2019 7:12:51 PM: ::1	::1	8153	GET	/api.rst	200 OK
+8/14/2019 7:12:52 PM: ::1	::1	8153	GET	/ui/common/images/icons-svc.png	200 OK
+8/14/2019 7:12:59 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 7:13:00 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 7:13:00 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 7:13:00 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 7:13:00 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 7:13:04 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 7:13:04 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 7:13:05 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 7:13:05 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 7:13:05 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 7:13:05 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 7:13:12 PM: ::1	::1	8153	GET	/Logout.aspx	302 Found
+8/14/2019 7:13:12 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 7:50:36 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 7:50:36 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 7:50:37 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 7:50:38 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 7:50:38 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 7:50:38 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 7:50:38 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 7:50:39 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:36:56 PM: #Stopping server.
+8/14/2019 10:37:01 PM: HTTP listener stopped.
+8/14/2019 10:37:01 PM: Web server stopped.
+8/14/2019 10:37:02 PM: #Stopping server.
+8/14/2019 10:37:25 PM: #(Re)Starting server.
+8/14/2019 10:37:38 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 10:37:56 PM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	302 Found
+8/14/2019 10:37:56 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 10:37:56 PM: ::1	::1	8153	GET	/login.rst	302 Found
+8/14/2019 10:37:57 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 10:37:57 PM: 127.0.0.1	127.0.0.1	8153	GET	/login.rst	200 OK
+8/14/2019 10:37:57 PM: #(Re)Start successful.
+8/14/2019 10:37:57 PM: HTTP listener started.
+8/14/2019 10:37:57 PM: Web server started.
+8/14/2019 10:37:59 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 10:37:59 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 10:37:59 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 10:38:09 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 10:38:09 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 10:38:09 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 10:38:11 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 10:38:12 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 10:38:12 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:38:12 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:38:12 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 10:38:13 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:38:24 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 10:38:24 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 10:38:25 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 10:38:26 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 10:38:26 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 10:38:26 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:38:26 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:38:26 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:38:35 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:38:36 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:38:36 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:38:36 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 10:38:36 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:38:40 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:38:40 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:38:40 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:38:40 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:38:58 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:38:58 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	POST	/src/parseConnectionString.rsb	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	POST	/src/getDriverInfo.rsb	200 OK
+8/14/2019 10:38:59 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 10:42:15 PM: ::1	::1	8153	GET	/about.rst	200 OK
+8/14/2019 10:42:21 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:42:21 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:42:21 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 10:42:21 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:42:21 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:42:26 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:42:27 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:42:27 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:42:27 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:54:25 PM: ::1	::1	8153	GET	/api.rst	200 OK
+8/14/2019 10:54:27 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:54:28 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:54:28 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:54:28 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 10:54:28 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:54:44 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 10:54:45 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 10:54:45 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:54:45 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:54:45 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 10:54:46 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 10:54:48 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:54:49 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:54:49 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 10:54:49 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:54:49 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 10:54:49 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 10:54:50 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 10:54:50 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 10:54:50 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:05:27 PM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	302 Found
+8/14/2019 11:05:28 PM: 127.0.0.1	127.0.0.1	8153	GET	/login.rst	200 OK
+8/14/2019 11:20:54 PM: #(Re)Starting server.
+8/14/2019 11:21:10 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 11:21:30 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 11:21:30 PM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	302 Found
+8/14/2019 11:21:32 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 11:21:32 PM: 127.0.0.1	127.0.0.1	8153	GET	/login.rst	200 OK
+8/14/2019 11:21:32 PM: #(Re)Start successful.
+8/14/2019 11:21:32 PM: HTTP listener started.
+8/14/2019 11:21:32 PM: Web server started.
+8/14/2019 11:21:33 PM: ::1	::1	8153	GET	/	302 Moved
+8/14/2019 11:21:33 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 11:21:34 PM: ::1	::1	8153	GET	/login.rst	200 OK
+8/14/2019 11:22:06 PM: ::1	::1	8153	POST	/Login.aspx	302 Found
+8/14/2019 11:22:06 PM: ::1	::1	8153	GET	/default.aspx	302 Found
+8/14/2019 11:22:06 PM: ::1	::1	8153	GET	/default.rst	302 Found
+8/14/2019 11:22:07 PM: ::1	::1	8153	GET	/status.rst	200 OK
+8/14/2019 11:22:08 PM: ::1	::1	8153	GET	/src/apiRequestActivity.rsb	200 OK
+8/14/2019 11:22:09 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:22:09 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 11:22:09 PM: ::1	::1	8153	GET	/src/apirequest.rsd	200 OK
+8/14/2019 11:22:09 PM: ::1	::1	8153	GET	/src/logs.rsd	200 OK
+8/14/2019 11:22:12 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 11:22:13 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:22:13 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 11:22:13 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:22:13 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:22:17 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 11:22:18 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:22:18 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 11:22:18 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:22:18 PM: ::1	::1	8153	GET	/ui/common/images/AmazonDynamoDB.svg	200 OK
+8/14/2019 11:22:34 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 11:22:35 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:22:35 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 11:22:35 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:22:35 PM: ::1	::1	8153	POST	/src/parseConnectionString.rsb	200 OK
+8/14/2019 11:22:35 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:22:37 PM: ::1	::1	8153	POST	/src/getDriverInfo.rsb	200 OK
+8/14/2019 11:27:23 PM: ::1	::1	8153	POST	/src/buildConnectionString.rsb	200 OK
+8/14/2019 11:27:30 PM: ::1	::1	8153	POST	/src/testConnection.rsb	200 OK
+8/14/2019 11:27:35 PM: ::1	::1	8153	POST	/src/buildConnectionString.rsb	200 OK
+8/14/2019 11:27:36 PM: ::1	::1	8153	POST	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:27:36 PM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/14/2019 11:27:37 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:27:37 PM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/14/2019 11:27:37 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:27:37 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:27:43 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:27:56 PM: ::1	::1	8153	POST	/src/listAvailableTables.rsb	200 OK
+8/14/2019 11:28:07 PM: ::1	::1	8153	POST	/src/listTableColumns.rsb	200 OK
+8/14/2019 11:28:08 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:28:31 PM: ::1	::1	8153	POST	/src/generateResourceSchema.rsb	200 OK
+8/14/2019 11:28:31 PM: ::1	::1	8153	POST	/src/saveSchema.rsb	200 OK
+8/14/2019 11:28:35 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:29:03 PM: ::1	::1	8153	POST	/src/users.rsd	200 OK
+8/14/2019 11:29:03 PM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/14/2019 11:29:10 PM: ::1	::1	8153	POST	/src/readSchema.rsb	200 OK
+8/14/2019 11:29:38 PM: ::1	::1	8153	DELETE	/src/tables.rsd	200 OK
+8/14/2019 11:29:38 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:29:39 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:29:43 PM: ::1	::1	8153	POST	/src/listAvailableTables.rsb	200 OK
+8/14/2019 11:29:48 PM: ::1	::1	8153	POST	/src/listTableColumns.rsb	200 OK
+8/14/2019 11:29:48 PM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/14/2019 11:30:38 PM: ::1	::1	8153	POST	/src/generateResourceSchema.rsb	200 OK
+8/14/2019 11:30:38 PM: ::1	::1	8153	POST	/src/saveSchema.rsb	200 OK
+8/14/2019 11:30:38 PM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/14/2019 11:47:12 PM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/14/2019 11:47:15 PM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/14/2019 11:47:17 PM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/14/2019 11:47:33 PM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/14/2019 11:48:07 PM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/14/2019 11:48:24 PM: ::1	::1	8153	GET	/api.rst	200 OK
+8/14/2019 11:48:30 PM: ::1	::1	8153	GET	/pub/api-resource.rst	200 OK
+8/14/2019 11:50:14 PM: ::1	::1	8153	GET	/api.rsc/CData_AmazonDynamoDB_Orders/	200 OK
+8/14/2019 11:50:15 PM: ::1	::1	8153	GET	/favicon.ico	200 OK
+8/15/2019 12:04:23 AM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/15/2019 12:04:24 AM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/15/2019 12:04:24 AM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/15/2019 12:04:24 AM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/15/2019 12:04:24 AM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/15/2019 12:08:15 AM: ::1	::1	8153	GET	/api.rst	200 OK
+8/15/2019 12:08:23 AM: ::1	::1	8153	GET	/pub/api-service.rst	200 OK
+8/15/2019 12:10:02 AM: ::1	::1	8153	GET	/api.rsc/	200 OK
+8/15/2019 12:10:34 AM: ::1	::1	8153	GET	/settings.rst	200 OK
+8/15/2019 12:10:35 AM: ::1	::1	8153	GET	/src/connectionInfo.rsd	200 OK
+8/15/2019 12:10:35 AM: ::1	::1	8153	GET	/src/SPs.rsd	200 OK
+8/15/2019 12:10:35 AM: ::1	::1	8153	GET	/src/tables.rsd	200 OK
+8/15/2019 12:10:35 AM: ::1	::1	8153	GET	/src/usersRequest.rsd	200 OK
+8/15/2019 12:11:30 AM: ::1	::1	8153	POST	/src/saveServerSettings.rsb	200 OK
+8/15/2019 12:15:01 AM: ::1	::1	8153	POST	/src/sendEmail.rsb	200 OK
+8/15/2019 12:15:46 AM: ::1	::1	8153	POST	/src/saveNotifySettings.rsb	200 OK
+8/15/2019 12:15:56 AM: ::1	::1	8153	POST	/src/saveNotifySettings.rsb	200 OK
+8/15/2019 12:16:31 AM: ::1	::1	8153	POST	/src/readSchema.rsb	200 OK
+8/15/2019 12:16:51 AM: ::1	::1	8153	GET	/help/odata/default.rst	200 OK
+8/15/2019 12:16:52 AM: ::1	::1	8153	GET	/help/lib/tree.css	200 OK
+8/15/2019 12:16:52 AM: ::1	::1	8153	GET	/ui/common/css/help.css	200 OK
+8/15/2019 12:16:52 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/styles/shThemeDefault.css	200 OK
+8/15/2019 12:16:52 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/styles/shCore.css	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shAutoloader.js	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/XRegExp.js	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/help/lib/help.js	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shCore.js	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/help/odata/_toc.htm	200 OK
+8/15/2019 12:16:53 AM: ::1	::1	8153	GET	/ui/common/images/help.png	200 OK
+8/15/2019 12:17:16 AM: ::1	::1	8153	GET	/help/odata/pg_startservermft.rst	200 OK
+8/15/2019 12:17:31 AM: ::1	::1	8153	GET	/help/odata/pg_apisrvdbconnect.rst	200 OK
+8/15/2019 12:17:33 AM: ::1	::1	8153	GET	/help/odata/pg_apisrvbuild.rst	200 OK
+8/15/2019 12:18:15 AM: ::1	::1	8153	GET	/help/odata/pg_apisrvdbconnect.rst	200 OK
+8/15/2019 12:18:21 AM: ::1	::1	8153	GET	/help/odata/pg_apisrvquery.rst	200 OK
+8/15/2019 12:18:21 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shBrushPlain.js	200 OK
+8/15/2019 12:18:21 AM: ::1	::1	8153	GET	/help/lib/syntaxhighlighter-3.0.83/scripts/shBrushCSharp.js	200 OK
+8/15/2019 12:19:33 AM: ::1	::1	8153	GET	/api.rsc/	200 OK
+8/15/2019 12:21:31 AM: #Stopping server.
+8/15/2019 12:21:36 AM: HTTP listener stopped.
+8/15/2019 12:21:36 AM: Web server stopped.
+8/15/2019 12:21:36 AM: #(Re)Starting server.
+8/15/2019 12:21:37 AM: #(Re)Start successful.
+8/15/2019 12:21:37 AM: HTTP listener started.
+8/15/2019 12:21:37 AM: Web server started.
+8/15/2019 12:21:40 AM: #Stopping server.
+8/15/2019 12:21:40 AM: HTTP listener stopped.
+8/15/2019 12:21:40 AM: Web server stopped.
+8/15/2019 12:21:40 AM: #(Re)Starting server.
+8/15/2019 12:21:42 AM: #(Re)Start successful.
+8/15/2019 12:21:42 AM: HTTP listener started.
+8/15/2019 12:21:42 AM: Web server started.
+8/15/2019 12:22:28 AM: #Stopping server.
+8/15/2019 12:22:28 AM: #Stopping server.
+8/15/2019 12:22:30 AM: ::1	::1	8153	GET	/api.rsc/Cars	401 Unauthorized
+8/15/2019 12:22:31 AM: ::1	::1	8153	GET	/api.rsc/	401 Unauthorized
+8/15/2019 12:22:31 AM: ::1	::1	8153	GET	/api.rsc/	200 OK
+8/15/2019 12:22:31 AM: ::1	::1	8153	GET	/api.rsc/Cars	200 OK
+8/15/2019 12:23:14 AM: #Stopping server.
+8/15/2019 12:23:14 AM: HTTP listener stopped.
+8/15/2019 12:23:14 AM: Web server stopped.
+8/15/2019 12:23:14 AM: #(Re)Starting server.
+8/15/2019 12:23:18 AM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	401 Unauthorized
+8/15/2019 12:23:18 AM: #(Re)Start successful.
+8/15/2019 12:23:18 AM: HTTP listener started.
+8/15/2019 12:23:18 AM: Web server started.
+8/15/2019 12:23:22 AM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	401 Unauthorized
+8/15/2019 12:23:22 AM: #Stopping server.
+8/15/2019 12:23:26 AM: #Stopping server.
+8/15/2019 12:23:26 AM: HTTP listener stopped.
+8/15/2019 12:23:26 AM: Web server stopped.
+8/15/2019 12:23:26 AM: #(Re)Starting server.
+8/15/2019 12:23:34 AM: 127.0.0.1	127.0.0.1	8153	GET	/default.aspx	401 Unauthorized
+8/15/2019 12:23:34 AM: #(Re)Start successful.
+8/15/2019 12:23:34 AM: HTTP listener started.
+8/15/2019 12:23:34 AM: Web server started.
